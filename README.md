@@ -13,31 +13,31 @@ To identify the root causes behind declining customer activity, restaurant engag
 
 Power BI [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc2YTRlYWEtZDhkMC00N2JjLWI1MjktY2RkN2RmNmNhOTdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Analysis Summary 
-**1. Order & Revenue Decline** 
- Orders dropped 69% from pre-crisis to crisis period.    
- Revenue declined from ₹37.6M to ₹11M (−70.9%). Revenue declined sharply.   
+**1. Order & Revenue Decline**    
+  Orders dropped 69% from pre-crisis to crisis period.     
+   Revenue declined from ₹37.6M to ₹11M (−70.9%). Revenue declined sharply.   
 
-**2. City-Wise Impact**
- Bengaluru, Mumbai, and Ahmedabad were hit hardest (≈70% drop). 
- Delhi and Pune showed moderate decline. 
- Organic channel orders fell most sharply in Mumbai (−76.5%). 
+**2. City-Wise Impact**  
+  Bengaluru, Mumbai, and Ahmedabad were hit hardest (≈70% drop).  
+   Delhi and Pune showed moderate decline. 
+   Organic channel orders fell most sharply in Mumbai (−76.5%). 
 
-**3. Restaurant Retention Risk** 
- Top partner restaurants like Royal Curry Mahal (−94%) and Cafe Corner (−92%) saw drastic engagement loss. 
- Weakening restaurant confidence threatens order availability and customer satisfaction. 
+**3. Restaurant Retention Risk**  
+  Top partner restaurants like Royal Curry Mahal (−94%) and Cafe Corner (−92%) saw drastic engagement loss.  
+   Weakening restaurant confidence threatens order availability and customer satisfaction. 
 
-**4. Service Quality Issues** 
- Average delivery time increased from 39.5 mins → 60 mins.  
- SLA rate dropped from 43.6% → 12.2%.   
+**4. Service Quality Issues**   
+   Average delivery time increased from 39.5 mins → 60 mins.  
+    SLA rate dropped from 43.6% → 12.2%.   
 
    **Cancellation rate** nearly doubled to 11.9%, signaling operational instability. 
-   Delayed and canceled deliveries erode trust and trigger negative feedback loops. 
+    Delayed and canceled deliveries erode trust and trigger negative feedback loops. 
 
-**5. Customer Sentiment**
- Ratings fell from 4.74 (Mar) to 2.58 (Jun).  
- Frequent negative keywords: “Food quality”, “not good”, “safety issues”.  
+**5. Customer Sentiment** 
+  Ratings fell from 4.74 (Mar) to 2.58 (Jun).  
+  Frequent negative keywords: “Food quality”, “not good”, “safety issues”.  
 
-**6. Customer Risk Segmentation** with Suggested Action    
+**6. Customer Risk Segmentation** with Suggested Action     
   High Risk	Loyal customers (≥5 pre-crisis orders, 0 during crisis, avg rating ≥4.5). Action :	Personalized cashback, “We Miss You” campaigns.    
   Medium Risk	customers - ≥2 pre-crisis orders  && <5 pre-crisis orders, , 0 during crisis. Action :	App notifications, small vouchers   
   Low Risk customers	Low frequency users. Action : Feedback surveys, re-engagement emails   
@@ -65,6 +65,6 @@ Retention and engagement strategy recommendations
 
 🚀 Outcomes  
 
-   Identified critical decline patterns across customers, restaurants, and operations    
-   Designed actionable retention framework based on customer & partner segmentation  
-   Delivered recovery strategy balancing customer reactivation and partner sustainability  
+   1. Identified critical decline patterns across customers, restaurants, and operations    
+   2. Designed actionable retention framework based on customer & partner segmentation  
+   3. Delivered recovery strategy balancing customer reactivation and partner sustainability  
