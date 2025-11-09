@@ -63,7 +63,8 @@ City, customer, and restaurant-level insights
 
 Retention and engagement strategy recommendations    
 
-🚀 Outcomes
-✅ Identified critical decline patterns across customers, restaurants, and operations
-✅ Designed actionable retention framework based on customer & partner segmentation
-✅ Delivered recovery strategy balancing customer reactivation and partner sustainability
+🚀 Outcomes  
+
+   Identified critical decline patterns across customers, restaurants, and operations    
+   Designed actionable retention framework based on customer & partner segmentation  
+   Delivered recovery strategy balancing customer reactivation and partner sustainability  
